@@ -55,6 +55,7 @@ project:
           - file: Content/Labs/Verdamping.ipynb        
           - file: Content/Labs/Warmtecapaciteit.ipynb
           - file: Content/Labs/koelbuis.ipynb
+          - file: Content/Labs/tempmetingen-733121424db047611d1756851296ade6.csv
 
       # - title: Druk
       #   children:
