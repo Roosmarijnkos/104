@@ -42,8 +42,8 @@ project:
         - file: Content/PySim/5_druktemp.ipynb
         - file: Content/PySim/6_boltzmann.ipynb
         - file: Content/PySim/7_arbeid.ipynb
-        # - file: Content/PySim/8_thermostaat.ipynb
-        # - file: Content/PySim/9_entropie.ipynb
+        - file: Content/PySim/8_thermostaat.ipynb
+        - file: Content/PySim/9_entropie.ipynb
 
     - title: Labs
       file: Content/Labs/uitleg.md
@@ -55,9 +55,12 @@ project:
           - file: Content/Labs/Verdamping.ipynb        
           - file: Content/Labs/Warmtecapaciteit.ipynb
           - file: Content/Labs/koelbuis.ipynb
-          # - file: Content/Labs/tempmetingen-733121424db047611d1756851296ade6.csv
+  
+          
+          
 
       - title: Druk
         children:
           - file: Content/Labs/druksensorijken.ipynb
+          - file: Content/Labs/waxine.ipynb
           # - file: Content/Labs/pV_diagram.ipynb
